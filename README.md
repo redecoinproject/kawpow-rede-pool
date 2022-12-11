@@ -1,7 +1,8 @@
-# NOMP KawPoW Algorithm Pool -ProcyonCoin
+# NOMP KawPoW Algorithm Pool 
+# fork pool Satoex , ProcyonCoin
 Highly Efficient mining pool for Coins based on KawPoW algo!
 
-This is opensource mining pool for ProcyonCoin
+This is opensource mining pool for Redecoin
 
 -------
 ### Screenshots
@@ -40,10 +41,9 @@ This is opensource mining pool for ProcyonCoin
 ### Install Pool
 
     sudo apt install git -y
-    cd ~
-    git config --global http.https://gopkg.in.followRedirects true
-    git clone https://github.com/ProcyonCoin/procyon-mining-pool
-    cd procyon-mining-pool/
+    cd
+    git clone https://github.com/jakubartur/kawpow-rede-pool.git 
+    cd kawpow-rede-pool/
     ./install.sh
 
 -------
@@ -57,7 +57,7 @@ Change "stratumHost": "192.168.0.200", to your IP or DNS in file config.json:
 ```javascript
 {
     
-    "poolname": "Procyon Pool",
+    "poolname": "Redecoin Pool",
     
     "devmode": false,
     "devmodePayMinimim": 0.25,
@@ -71,14 +71,14 @@ Change "stratumHost": "192.168.0.200", to your IP or DNS in file config.json:
     
     "defaultCoin": "neoxacoin",
     
-    "poollogo": "/static/icons/neoxa.png",
+    "poollogo": "/static/icons/redecoin.png",
     
     "discordtwitterfacebook": "",
     
-    "pagetitle": "Procyon Coin Pool - 1% Fees",
-    "pageauthor": "ProcyonCoin project",
+    "pagetitle": "Coin Pool - 1% Fees",
+    "pageauthor": "kawpow project",
     "pagedesc": "A reliable, 0% fee, easy to use mining pool for cryptocurrency! No matter your experience with mining cryptocurrency, we make it easy! Get started mining today!",
-    "pagekeywds": "GPU,CPU,Hash,Hashrate,Cryptocurrency,Crypto,Mining,Pool,Bitcoin,Procyon,Wavi,Wavicoin,Dixicoin,Dixi,QBic,QBicCoin,Easy,Simple,How,To",
+    "pagekeywds": "GPU,CPU,Hash,Hashrate,Cryptocurrency,Crypto,Mining,Pool,Bitcoin,Redecoin,Procyon,Wavi,Wavicoin,Dixicoin,Dixi,QBic,QBicCoin,Easy,Simple,How,To",
 
     "btcdonations": "",
     "ltcdonations": "",
