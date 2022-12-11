@@ -1,0 +1,19 @@
+{
+    "name": "redecoin",
+    "symbol": "REDE",
+    "algorithm": "kawpow",
+
+    "wallet": "https://github.com/redecoinproject/redecoin/releases",
+
+    "explorer":"https://explorer.redecoin.eu/",
+
+    "explorerGetBlockJSON": "https://explorer.redecoin.eu/api/getrawtransaction?decrypt=1&txid=",
+    "explorerGetBlock": "https://explorer.redecoin.eu/block/",
+    "explorerGetTX": "https://explorer.redecoin.eu/transaction/",
+
+
+
+    "blockTime": 60,
+    "blockChange": 1
+}
+

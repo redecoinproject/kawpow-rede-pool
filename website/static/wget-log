@@ -1,0 +1,11 @@
+--2022-05-29 14:15:38--  https://avatars.githubusercontent.com/u/106473098?s=400
+Resolving avatars.githubusercontent.com (avatars.githubusercontent.com)... 185.199.108.133, 185.199.109.133, 185.199.110.133, ...
+Connecting to avatars.githubusercontent.com (avatars.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 19843 (19K) [image/png]
+Saving to: ‘106473098?s=400’
+
+106473098?s=400             0%[                                    ]       0  --.-KB/s               106473098?s=400           100%[===================================>]  19.38K  --.-KB/s    in 0s      
+
+2022-05-29 14:15:39 (74.6 MB/s) - ‘106473098?s=400’ saved [19843/19843]
+
